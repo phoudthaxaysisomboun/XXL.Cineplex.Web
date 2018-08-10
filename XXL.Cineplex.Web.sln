@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXL.Cineplex.Web", "XXL.Cineplex.Web\XXL.Cineplex.Web.csproj", "{BECD9510-997A-4B12-B0AE-177F1D8EEA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXL.Cineplex.Web.Tests", "XXL.Cineplex.Web.Tests\XXL.Cineplex.Web.Tests.csproj", "{4959F69A-46AE-4DDD-A765-4036367CDD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECD9510-997A-4B12-B0AE-177F1D8EEA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECD9510-997A-4B12-B0AE-177F1D8EEA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECD9510-997A-4B12-B0AE-177F1D8EEA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECD9510-997A-4B12-B0AE-177F1D8EEA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4959F69A-46AE-4DDD-A765-4036367CDD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4959F69A-46AE-4DDD-A765-4036367CDD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4959F69A-46AE-4DDD-A765-4036367CDD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4959F69A-46AE-4DDD-A765-4036367CDD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E684BB5-FED4-4E5E-B11F-333E723AD63A}
+	EndGlobalSection
+EndGlobal
